@@ -11,4 +11,3 @@ Each project is organized in its own folder with its own documentation.
 **Fahad Alam Jamal**
 
 GitHub: https://github.com/Fahad-Alam-Jamal
-
