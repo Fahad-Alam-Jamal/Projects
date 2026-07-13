@@ -1,0 +1,9 @@
+endpoint: /amazon-orders-usa
+datakey: usa-orders
+s3_storage:
+  bucket: amazon-orders
+  key: usa_orders.json
+table_storage:
+  database: Amazon_Orders_DW
+  table: orders
+  password: password

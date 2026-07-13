@@ -1,0 +1,10 @@
+You can Put NEW Transaction Training data in the dir  '/home/victus/Fahad/DATA-Project/Transaction_Fraud_Detecter/Data/Training_data'
+
+LIKE THIS FORMAT  --->   Training_data_0.parquet
+THE DATA SHOULD BE IN PARQUET TYPE AND ONLY 4 BATCHES ARE ALLOWED
+
+Example: The Training_data directory will have these files
+Training_data_0.parquet
+Training_data_1.parquet
+Training_data_2.parquet
+Training_data_3.parquet

@@ -1,0 +1,9 @@
+endpoint: /amazon-orders-canada
+datakey: canada-orders
+s3_storage:
+  bucket: amazon-orders
+  key: canada_orders.json
+table_storage:
+  database: Amazon_Orders_DW
+  table: orders
+  password: password

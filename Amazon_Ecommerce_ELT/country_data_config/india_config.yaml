@@ -1,0 +1,9 @@
+endpoint: /amazon-orders-india
+datakey: india-orders
+s3_storage:
+  bucket: amazon-orders
+  key: india_orders.json
+table_storage:
+  database: Amazon_Orders_DW
+  table: orders
+  password: password

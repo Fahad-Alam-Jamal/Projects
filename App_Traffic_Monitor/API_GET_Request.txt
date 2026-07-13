@@ -1,0 +1,1 @@
+https://fakerapi.it/api/v2/custom?_quantity=1&_locale=en_IN&user_id=ean&state=state&event_id=buildingNumber&device_id=boolean_digit
